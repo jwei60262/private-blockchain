@@ -1,6 +1,6 @@
-# Project #2. Private Blockchain
+# Private Blockchain
 
-This is Project 2, Private Blockchain, in this project I created the classes to manage my private blockchain, to be able to persist my blochchain I used LevelDB.
+In this project I created the classes to manage my private blockchain, to be able to persist my blochchain I used LevelDB.
 
 ## Setup project for Review.
 
